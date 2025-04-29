@@ -211,6 +211,7 @@ BadWords = [
     "kill urself",
     "killurself",
     " r.a.pe",
+    "Niggar"
     "rаpe", #russian character(s)
     "r.аpe", #russian character(s)
     "rа.pe", #russian character(s)
